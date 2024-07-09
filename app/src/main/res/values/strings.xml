@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ARMenu</string>
+    <string name="back_button">Back Button</string>
+    <string name="forward_button">forward</string>
+    <string name="food_image">Food Image</string>
+    <string name="place_it">Place it</string>
+</resources>
